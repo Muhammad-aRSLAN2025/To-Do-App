@@ -22,5 +22,5 @@ This project is a simple, browser-based To-Do List application built as a portfo
     git clone [https://github.com/your-username/js-todo-list-app.git](https://github.com/your-username/js-todo-list-app.git)
     ```
 2.  Open the `index.html` file in your web browser.
-
+3. Adding a test so that I can upgrade it.
 ---
