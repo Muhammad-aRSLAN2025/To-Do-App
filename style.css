@@ -65,7 +65,7 @@ button {
     width: 28px;
     height: 28px;
     border-radius: 50%;
-    background-image: url(unchecked.png);
+    background-image: url(Assets/unchecked_icon.png);
     background-size: cover;
     background-position: center;
     top: 8px;
@@ -76,7 +76,7 @@ button {
     text-decoration: line-through;
 }
 #list-container li.checked::before {
-    background-image: url(checked.png);
+    background-image: url(Assets/checked_icon.png);
 }
 #list-container li span {
     position: absolute;
